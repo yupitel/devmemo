@@ -1,6 +1,6 @@
 # devpattern
 
-memorandum for daily development in my works.  
+Notes for daily development in my works.  
 
 
 ## environment
