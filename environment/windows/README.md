@@ -10,6 +10,11 @@
 * wsl
   * Base development environment.
   * Linux on wsl can be used for development in mose case. So I create most of the development environment in the linux on wsl.
+  * install
+    * check distribution
+      * wsl --list --online
+    * install
+      * wsl --install -d ${DistroName}
 
 
 ## settings
